@@ -1,4 +1,4 @@
-![A collage of photos of college students interacting with creative technology tools: computers, video equipment, whiteboards, etc.](/corps-github.jpg?raw=true)
+![A collage of photos of college students interacting with creative technology tools: computers, video equipment, whiteboards, etc.](/profile/corps-github.jpg?raw=true)
 
 # The Digital Corps!
 
