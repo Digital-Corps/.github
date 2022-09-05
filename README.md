@@ -1,4 +1,7 @@
+![A collage of photos of college students interacting with creative technology tools: computers, video equipment, whiteboards, etc.](/corps-github.jpg?raw=true)
+
 # The Digital Corps!
+
 The Digital Corps is an on-campus agency of problem solvers, big thinkers, and creatives. We are Ball State University students from multiple disciplines who work together to create innovative solutions.
 
 The Ball State University Digital Corps is a proud member of the Office of Information Technology. As part of the IT family, our primary goal is to serve as a catalyst to the campus community. We use technology in creative, innovative, and immersive directions to advance and support the mission and goals of the University.
